@@ -6,8 +6,8 @@ import "./styles.css";
 const UserContext = createContext();
 
 export default function App() {
-  const user1 = { name: "Alan" };
-  const user2 = { name: "Bob" };
+  const user1 = { name: "Aline" };
+  const user2 = { name: "Berthe" };
 
   return (
     <>
